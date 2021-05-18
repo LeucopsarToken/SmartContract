@@ -19,7 +19,7 @@
 2% fee auto distribute to all holder
 2% fee of tokens burnt each sale
 4% fee for donation/ad wallet (0x36c8be0108a3D5962e26e393995EfFBfFcDf3BE7 This wallet will be split 50% Donation to charity, 50% to be used for marketing and advertising)
-50% Supply is burned at start.
+50% Supply will be burn at launch.
 
 Website: www.leucopsar.xyz
 Community TG: t.me/leucopsar_token
