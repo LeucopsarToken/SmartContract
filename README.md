@@ -11,7 +11,7 @@ Presale  | 46
 Charity/Marketing Wallet  | 4 
 
 ### 10% Transaction Fees Distribute as follows:
-| Distribute to  | % |
+| Fees Distribution  | % |
 | ------------- | ------------- |
 | Donation/ad wallet  | 4  |
 | Holders Rewards  | 2  |
