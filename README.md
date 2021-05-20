@@ -25,9 +25,6 @@ Charity/Marketing Wallet  | 4
 | Add To Liquidity  | 2  |
 
 
-### Charity Wallet: 
-##### https://bscscan.com/address/0x36c8be0108a3D5962e26e393995EfFBfFcDf3BE7 
-
 ### Socials: 
 ##### https://leucopsar.xyz/
 ##### https://t.me/leucopsar_token
