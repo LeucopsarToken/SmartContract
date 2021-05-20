@@ -10,8 +10,8 @@ Burns  | 50
 Presale  | 46
 Charity/Marketing Wallet  | 4 
 
-### Transaction Fees:
-| Fees  | % |
+### 10% Transaction Fees Distribute as follows:
+| Distribute to  | % |
 | ------------- | ------------- |
 | Donation/ad wallet  | 4  |
 | Holders Rewards  | 2  |
